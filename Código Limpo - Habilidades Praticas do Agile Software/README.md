@@ -8,3 +8,5 @@
 • A segunda parte apresenta uma série de técnicas para escrever código limpo, como nomes claros e significativos para variáveis e funções, funções curtas e bem definidas, evitar duplicação de código, usar comentários com moderação, entre outras.
 
 • A terceira parte apresenta práticas para refatoração de código, que é o processo de modificar o código existente para melhorar sua estrutura e qualidade, sem alterar sua funcionalidade. Uncle Bob apresenta algumas técnicas de refatoração e explica como elas podem ser usadas para melhorar a qualidade do código.
+
+• A quarta parte apresenta práticas para testes automatizados e explica como eles podem ser usados para garantir a qualidade do código. Uncle Bob também fala sobre o ciclo TDD (Test-Driven Development), que é uma abordagem de desenvolvimento em que os testes são escritos antes do código.
