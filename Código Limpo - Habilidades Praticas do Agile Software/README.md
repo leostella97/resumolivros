@@ -12,3 +12,7 @@
 • A quarta parte apresenta práticas para testes automatizados e explica como eles podem ser usados para garantir a qualidade do código. Uncle Bob também fala sobre o ciclo TDD (Test-Driven Development), que é uma abordagem de desenvolvimento em que os testes são escritos antes do código.
 
 • A quinta e última parte apresenta práticas para gerenciamento de projetos de software ágeis, como o SCRUM e o XP. Uncle Bob explica como essas práticas podem ser usadas para melhorar a qualidade e produtividade do desenvolvimento de software.
+
+## Principais pontos
+O livro enfatiza a importância da comunicação clara entre os membros da equipe de desenvolvimento e de um processo de revisão de código, onde outros membros da equipe revisam o código de forma a identificar possíveis problemas e melhorias.
+
