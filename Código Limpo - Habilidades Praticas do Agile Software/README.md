@@ -19,3 +19,10 @@ O livro enfatiza a importância da comunicação clara entre os membros da equip
 Outro ponto importante abordado pelo livro é a importância do comprometimento com a qualidade do código, o que requer um esforço contínuo para melhorar o código e evitar a criação de dívidas técnicas que podem prejudicar o projeto a longo prazo.
 
 O livro também é útil para gerentes de projeto e outros profissionais envolvidos no desenvolvimento de software, pois fornece uma visão geral das melhores práticas para gerenciar equipes de desenvolvimento de software e garantir a qualidade do código produzido.
+
+Ao longo do livro, Uncle Bob usa exemplos de código real e cenários comuns de desenvolvimento de software para ilustrar seus pontos e fornecer exemplos práticos de como aplicar as técnicas e práticas apresentadas no livro.
+
+## Conclusão
+Em resumo, "Código Limpo" é uma leitura obrigatória para todos os programadores que desejam melhorar sua habilidade em escrever código limpo e fácil de ser mantido, bem como para gerentes de projetos que buscam melhorar a qualidade do código produzido por suas equipes de desenvolvimento. O livro apresenta uma abordagem prática e clara para escrever um código de alta qualidade, e suas lições podem ser aplicadas a projetos de software de todos os tipos e tamanhos.
+
+Por fim, "Código Limpo" é uma leitura essencial para programadores de todos os níveis de experiência, desde iniciantes até desenvolvedores experientes. O livro apresenta uma visão clara e prática sobre a importância do código limpo e fornece técnicas e práticas para ajudar os programadores a melhorar a qualidade de seu trabalho.
