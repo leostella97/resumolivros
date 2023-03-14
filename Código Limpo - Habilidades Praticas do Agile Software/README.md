@@ -18,3 +18,4 @@ O livro enfatiza a importância da comunicação clara entre os membros da equip
 
 Outro ponto importante abordado pelo livro é a importância do comprometimento com a qualidade do código, o que requer um esforço contínuo para melhorar o código e evitar a criação de dívidas técnicas que podem prejudicar o projeto a longo prazo.
 
+O livro também é útil para gerentes de projeto e outros profissionais envolvidos no desenvolvimento de software, pois fornece uma visão geral das melhores práticas para gerenciar equipes de desenvolvimento de software e garantir a qualidade do código produzido.
