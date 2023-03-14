@@ -16,3 +16,5 @@
 ## Principais pontos
 O livro enfatiza a importância da comunicação clara entre os membros da equipe de desenvolvimento e de um processo de revisão de código, onde outros membros da equipe revisam o código de forma a identificar possíveis problemas e melhorias.
 
+Outro ponto importante abordado pelo livro é a importância do comprometimento com a qualidade do código, o que requer um esforço contínuo para melhorar o código e evitar a criação de dívidas técnicas que podem prejudicar o projeto a longo prazo.
+
