@@ -10,3 +10,5 @@
 • A terceira parte apresenta práticas para refatoração de código, que é o processo de modificar o código existente para melhorar sua estrutura e qualidade, sem alterar sua funcionalidade. Uncle Bob apresenta algumas técnicas de refatoração e explica como elas podem ser usadas para melhorar a qualidade do código.
 
 • A quarta parte apresenta práticas para testes automatizados e explica como eles podem ser usados para garantir a qualidade do código. Uncle Bob também fala sobre o ciclo TDD (Test-Driven Development), que é uma abordagem de desenvolvimento em que os testes são escritos antes do código.
+
+• A quinta e última parte apresenta práticas para gerenciamento de projetos de software ágeis, como o SCRUM e o XP. Uncle Bob explica como essas práticas podem ser usadas para melhorar a qualidade e produtividade do desenvolvimento de software.
