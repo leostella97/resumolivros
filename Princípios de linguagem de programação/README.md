@@ -9,3 +9,5 @@ O livro também discute os diferentes paradigmas de programação, como a progra
 Além disso, o livro apresenta conceitos avançados de programação, como concorrência, paralelismo, comunicação entre processos e sistemas distribuídos. Os autores explicam como esses conceitos são importantes em linguagens de programação modernas e como eles são implementados em diferentes linguagens.
 
 Por fim, o livro discute o desenvolvimento de linguagens de programação, incluindo a criação de compiladores, interpretadores e máquinas virtuais. Os autores também abordam questões como a especificação formal de linguagens de programação, a verificação de programas e a otimização de código.
+
+Em resumo, "Princípios de linguagem de programação" é um livro abrangente que cobre desde os conceitos básicos da programação até tópicos avançados e o desenvolvimento de linguagens de programação. É uma leitura recomendada para estudantes e profissionais que desejam aprofundar seus conhecimentos sobre linguagens de programação.
