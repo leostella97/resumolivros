@@ -7,3 +7,5 @@ O livro começa com uma introdução sobre a importância da linguagem de progra
 O livro também discute os diferentes paradigmas de programação, como a programação imperativa, orientada a objetos, funcional e lógica. Os autores explicam como cada paradigma funciona, seus prós e contras e exemplos de linguagens de programação que se enquadram em cada paradigma.
 
 Além disso, o livro apresenta conceitos avançados de programação, como concorrência, paralelismo, comunicação entre processos e sistemas distribuídos. Os autores explicam como esses conceitos são importantes em linguagens de programação modernas e como eles são implementados em diferentes linguagens.
+
+Por fim, o livro discute o desenvolvimento de linguagens de programação, incluindo a criação de compiladores, interpretadores e máquinas virtuais. Os autores também abordam questões como a especificação formal de linguagens de programação, a verificação de programas e a otimização de código.
