@@ -5,3 +5,5 @@
 O livro começa com uma introdução sobre a importância da linguagem de programação na computação e sua evolução ao longo dos anos. Em seguida, os autores abordam os conceitos fundamentais da programação, como variáveis, tipos de dados, expressões e controle de fluxo.
 
 O livro também discute os diferentes paradigmas de programação, como a programação imperativa, orientada a objetos, funcional e lógica. Os autores explicam como cada paradigma funciona, seus prós e contras e exemplos de linguagens de programação que se enquadram em cada paradigma.
+
+Além disso, o livro apresenta conceitos avançados de programação, como concorrência, paralelismo, comunicação entre processos e sistemas distribuídos. Os autores explicam como esses conceitos são importantes em linguagens de programação modernas e como eles são implementados em diferentes linguagens.
