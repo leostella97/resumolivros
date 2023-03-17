@@ -25,11 +25,15 @@ A barra de ferramentas do Photoshop fica localizada na lateral esquerda da tela.
 <br>
 ## Texto (Type)
 <br>
-Horizontal Type Tool (Ferramenta de texto horizontal): permite adicionar texto horizontal na imagem.
-Vertical Type Tool (Ferramenta de texto vertical): permite adicionar texto vertical na imagem.
-Horizontal Type Mask Tool (Ferramenta de máscara de texto horizontal): permite criar uma seleção em forma de texto.
-Vertical Type Mask Tool (Ferramenta de máscara de texto vertical): permite criar uma seleção em forma de texto vertical.
-Camadas (Layers)
+<b>Horizontal Type Tool (Ferramenta de texto horizontal):</b> permite adicionar texto horizontal na imagem.
+<br>
+<b>Vertical Type Tool (Ferramenta de texto vertical):</b> permite adicionar texto vertical na imagem.
+<br>
+<b>Horizontal Type Mask Tool (Ferramenta de máscara de texto horizontal):</b> permite criar uma seleção em forma de texto.
+<br>
+<b>Vertical Type Mask Tool (Ferramenta de máscara de texto vertical):</b> permite criar uma seleção em forma de texto vertical.
+<br>
+## Camadas (Layers)
 Move Tool (Ferramenta de mover): permite mover camadas na imagem.
 Marquee Tool (Ferramenta de seleção): permite selecionar camadas na imagem.
 Lasso Tool (Ferramenta laço): permite selecionar camadas de forma livre.
