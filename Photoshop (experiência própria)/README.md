@@ -7,17 +7,24 @@ A barra de ferramentas do Photoshop fica localizada na lateral esquerda da tela.
 <b>Rectangular Marquee Tool (Ferramenta de seleção retangular):</b> permite selecionar áreas retangulares.
 <br>
 <b>Elliptical Marquee Tool (Ferramenta de seleção elíptica):</b> permite selecionar áreas circulares ou ovais.
-
+<br>
 <b>Lasso Tool (Ferramenta laço):</b> permite selecionar áreas de forma livre.
-
-Magnetic Lasso Tool (Ferramenta laço magnético): permite selecionar áreas com bordas definidas.
-Quick Selection Tool (Ferramenta de seleção rápida): permite selecionar áreas com base em amostras de cor e textura.
-Pincéis (Brushes)
-Brush Tool (Ferramenta pincel): permite pintar e desenhar com um pincel personalizado.
-Clone Stamp Tool (Ferramenta carimbo): permite copiar uma parte da imagem para outra parte.
-Eraser Tool (Ferramenta borracha): permite apagar partes da imagem.
-Gradient Tool (Ferramenta gradiente): permite criar gradientes de cores.
-Texto (Type)
+<br>
+<b>Magnetic Lasso Tool (Ferramenta laço magnético):</b> permite selecionar áreas com bordas definidas.
+<br>
+<b>Quick Selection Tool (Ferramenta de seleção rápida):</b> permite selecionar áreas com base em amostras de cor e textura.
+<br>
+## Pincéis (Brushes)
+<b>Brush Tool (Ferramenta pincel):</b> permite pintar e desenhar com um pincel personalizado.
+<br>
+<b>Clone Stamp Tool (Ferramenta carimbo):</b> permite copiar uma parte da imagem para outra parte.
+<br>
+<b>Eraser Tool (Ferramenta borracha):</b> permite apagar partes da imagem.
+<br>
+<b>Gradient Tool (Ferramenta gradiente):</b> permite criar gradientes de cores.
+<br>
+## Texto (Type)
+<br>
 Horizontal Type Tool (Ferramenta de texto horizontal): permite adicionar texto horizontal na imagem.
 Vertical Type Tool (Ferramenta de texto vertical): permite adicionar texto vertical na imagem.
 Horizontal Type Mask Tool (Ferramenta de máscara de texto horizontal): permite criar uma seleção em forma de texto.
