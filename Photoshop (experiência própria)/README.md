@@ -14,6 +14,7 @@ A barra de ferramentas do Photoshop fica localizada na lateral esquerda da tela.
 <br>
 <b>Quick Selection Tool (Ferramenta de seleção rápida):</b> permite selecionar áreas com base em amostras de cor e textura.
 <br>
+
 ## Pincéis (Brushes)
 <b>Brush Tool (Ferramenta pincel):</b> permite pintar e desenhar com um pincel personalizado.
 <br>
@@ -23,6 +24,7 @@ A barra de ferramentas do Photoshop fica localizada na lateral esquerda da tela.
 <br>
 <b>Gradient Tool (Ferramenta gradiente):</b> permite criar gradientes de cores.
 <br>
+
 ## Texto (Type)
 <br>
 <b>Horizontal Type Tool (Ferramenta de texto horizontal):</b> permite adicionar texto horizontal na imagem.
@@ -33,6 +35,7 @@ A barra de ferramentas do Photoshop fica localizada na lateral esquerda da tela.
 <br>
 <b>Vertical Type Mask Tool (Ferramenta de máscara de texto vertical):</b> permite criar uma seleção em forma de texto vertical.
 <br>
+
 ## Camadas (Layers)
 Move Tool (Ferramenta de mover): permite mover camadas na imagem.
 Marquee Tool (Ferramenta de seleção): permite selecionar camadas na imagem.
