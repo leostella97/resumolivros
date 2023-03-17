@@ -78,4 +78,4 @@ As ferramentas de retoque permitem corrigir imperfeições na imagem, como manch
 As máscaras permitem esconder ou revelar partes da imagem ou de uma camada. Elas podem ser criadas utilizando a ferramenta de seleção, o pincel ou o gradiente.
 
 ## Salvando e Exportando (Saving and Exporting)
-Para salvar uma imagem editada no Photoshop, basta selecionar "Salvar" ou "Salvar Como" no menu "Arquivo". Para exportar em diferentes formatos, como JPEG, PNG ou GIF, selecione "Exportar" ou "Salvar Para Web".
+Para salvar uma imagem editada no Photoshop, basta selecionar "Salvar" ou "Salvar Como" no menu "Arquivo". Para exportar em diferentes formatos, como JPEG, PNG ou GIF, selecione "Exportar" ou "Salvar Para Web". 
