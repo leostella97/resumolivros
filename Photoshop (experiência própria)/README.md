@@ -5,8 +5,11 @@ A barra de ferramentas do Photoshop fica localizada na lateral esquerda da tela.
 
 ## Seleção (Selection)
 <b>Rectangular Marquee Tool (Ferramenta de seleção retangular):</b> permite selecionar áreas retangulares.
+
 <b>Elliptical Marquee Tool (Ferramenta de seleção elíptica):</b> permite selecionar áreas circulares ou ovais.
-Lasso Tool (Ferramenta laço): permite selecionar áreas de forma livre.
+
+<b>Lasso Tool (Ferramenta laço):</b> permite selecionar áreas de forma livre.
+
 Magnetic Lasso Tool (Ferramenta laço magnético): permite selecionar áreas com bordas definidas.
 Quick Selection Tool (Ferramenta de seleção rápida): permite selecionar áreas com base em amostras de cor e textura.
 Pincéis (Brushes)
