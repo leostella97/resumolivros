@@ -28,3 +28,8 @@ A Cultura Scrum é baseada em valores como <b>transparência, inspeção</b> e <
 
 ## Capítulo 8: Os Benefícios do Scrum
 Neste capítulo, o autor apresenta vários exemplos de empresas que adotaram o Scrum e os benefícios que elas experimentaram, incluindo maior <b>eficiência, produtividade</b> e <b>satisfação do cliente</b>.
+
+## Conclusão
+Na conclusão do livro, o autor resume os <i>principais pontos sobre o Scrum</i> e explica <i>como essa metodologia pode ajudar as empresas a se tornarem mais ágeis e eficientes, realizando mais trabalho em menos tempo e com menos recursos</i>. Ele enfatiza que <b>o Scrum não é apenas uma ferramenta de gerenciamento de projetos, mas uma filosofia que pode transformar a cultura de uma empresa e melhorar sua capacidade de inovar e responder às mudanças do mercado</b>.
+<br>
+É um livro essencial para qualquer pessoa interessada em <i>gerenciamento de projetos ágil</i>. O autor explica claramente os conceitos e <i>práticas do Scrum</i> e fornece exemplos convincentes de como essa metodologia pode ajudar as empresas a serem mais eficientes e produtivas. Se você está buscando uma abordagem mais eficiente e colaborativa para gerenciar projetos, ler este livro por completo é altamente recomendado.
