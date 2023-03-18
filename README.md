@@ -7,5 +7,5 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/Photoshop%20(experi%C3%AAncia%20pr%C3%B3pria)">> Photoshop (experiência própria)</a>
 <br>
-<a href="https://github.com/leostella97/resumolivros/tree/main/Scrum%20A%20arte%20de%20fazer%20o%20dobro%20do%20trabalho%20na%20metade%20do%20tempo">Scrum: A arte de fazer o dobro do trabalho na metade do tempo
+<a href="https://github.com/leostella97/resumolivros/tree/main/Scrum%20A%20arte%20de%20fazer%20o%20dobro%20do%20trabalho%20na%20metade%20do%20tempo">> Scrum: A arte de fazer o dobro do trabalho na metade do tempo
 </a>
