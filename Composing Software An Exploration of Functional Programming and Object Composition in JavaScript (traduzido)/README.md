@@ -6,3 +6,5 @@ O livro começa com uma <b>introdução à programação funcional</b>, explican
 
 Em seguida, o livro explora a <i>composição de objetos em JavaScript</i>, discutindo como objetos podem ser compostos para <b>formar estruturas mais complexas</b>. Os autores explicam como a composição de objetos é diferente da herança de classes e mostram como ela pode ser usada para criar código mais modular e reutilizável.
 
+O livro também discute <b>técnicas avançadas de programação funcional</b>, como <i>funções de ordem superior, currificação</i> e <i>composição de funções</i>. Os autores explicam como essas técnicas podem ser usadas para escrever código mais conciso e expressivo em JavaScript.
+
