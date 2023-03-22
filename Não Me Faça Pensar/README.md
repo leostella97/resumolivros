@@ -7,3 +7,5 @@ O livro enfatiza a <b>importância de criar interfaces de usuário intuitivas</b
 O autor apresenta <i>vários princípios</i> e <i>técnicas de usabilidade</i> que podem ser aplicados em projetos de design de interface de usuário. Ele enfatiza a <b>importância</b> de criar um design claro e consistente, usando palavras simples e <b>evitando</b> jargões e termos técnicos desnecessários. Krug também destaca a importância do teste de usabilidade para identificar problemas e melhorias no design da interface.
 
 O livro é apresentado de uma forma <i>acessível</i> e <i>divertida</i>, com muitos exemplos <i>práticos</i> e <i>ilustrações</i>. Krug enfatiza que a <b>usabilidade não é um conceito complicado ou difícil de entender<b> - é simplesmente uma questão de senso comum e empatia com os usuários.
+
+Em resumo, <b>"Não Me Faça Pensar"</b> é um livro <i>essencial</i> para qualquer pessoa envolvida no <i>design de sites</i> e <i>aplicativos</i>. Ele oferece <i>insights valiosos</i> sobre como criar interfaces de usuário intuitivas e eficazes, e enfatiza a <b>importância da usabilidade</b> como um fator crítico para o sucesso de um produto digital.
