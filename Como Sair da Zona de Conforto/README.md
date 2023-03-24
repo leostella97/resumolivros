@@ -23,3 +23,8 @@ Neste capítulo, o autor discute os obstáculos que impedem as pessoas de sair d
 ## Capítulo 4 - Como sair da zona de conforto?
 
 Neste capítulo, o autor apresenta dicas práticas para sair da zona de conforto, como definir objetivos claros, estabelecer um plano de ação, enfrentar o medo e a incerteza e celebrar cada pequena conquista.
+
+
+## Capítulo 5 - Os benefícios de sair da zona de conforto
+
+Neste capítulo, o autor discute os benefícios de sair da zona de conforto em diferentes áreas da vida, como a carreira, a saúde, os relacionamentos e a vida pessoal.
