@@ -28,3 +28,14 @@ Neste capítulo, o autor apresenta dicas práticas para sair da zona de conforto
 ## Capítulo 5 - Os benefícios de sair da zona de conforto
 
 Neste capítulo, o autor discute os benefícios de sair da zona de conforto em diferentes áreas da vida, como a carreira, a saúde, os relacionamentos e a vida pessoal.
+
+
+## Capítulo 6 - Como manter-se fora da zona de conforto?
+
+Neste capítulo, o autor apresenta dicas para manter-se fora da zona de conforto e continuar crescendo pessoal e profissionalmente. Ele também fala sobre a importância de encontrar equilíbrio entre o conforto e o desafio.
+
+
+## Conclusão
+
+O autor reforça a importância de sair da zona de conforto e apresenta uma mensagem motivacional para os leitores continuarem desafiando-se e buscando o crescimento pessoal e profissional.
+"Como Sair da Zona de Conforto" é um livro inspirador e motivador para pessoas que desejam sair da rotina e alcançar seus objetivos pessoais e profissionais. Com dicas práticas e exemplos reais, o autor mostra que é possível superar os obstáculos e encontrar o sucesso fora da zona de conforto.
