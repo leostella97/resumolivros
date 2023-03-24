@@ -15,3 +15,5 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <a href="https://github.com/leostella97/resumolivros/tree/main/N%C3%A3o%20Me%20Fa%C3%A7a%20Pensar">> Não Me Faça Pensar</a>
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/HTML%20e%20CSS%20Design%20e%20Cria%C3%A7%C3%A3o%20de%20Sites">> HTML e CSS: Design e Criação de Sites</a>
+<br>
+<a href="https://github.com/leostella97/resumolivros/tree/main/Como%20Sair%20da%20Zona%20de%20Conforto">> Como Sair da Zona de Conforto</a>
