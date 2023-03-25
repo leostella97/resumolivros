@@ -8,3 +8,8 @@ O livro consiste em 13 capítulos, cada um abordando um aspecto diferente da est
 ## Capítulo 1: Planejamento
 
 O primeiro capítulo enfatiza a <b>importância do planejamento</b> antes de qualquer ação militar. Sun Tzu argumenta que, <i>para vencer uma guerra</i>, é necessário <i>conhecer o inimigo e o terreno em que a batalha será travada</i>. Ele também destaca a <b>importância de avaliar</b> cuidadosamente as forças próprias e as do inimigo antes de tomar qualquer decisão.
+
+
+## Capítulo 2: Guerra Ofensiva
+
+Sun Tzu argumenta que, em geral, é <b>melhor adotar</b> uma estratégia ofensiva em vez de defensiva. Ele afirma que a <i>melhor maneira de vencer uma guerra</i> é destruir as forças inimigas <i>antes</i> que elas tenham a chance de se <i>concentrar</i> e se fortalecer.
