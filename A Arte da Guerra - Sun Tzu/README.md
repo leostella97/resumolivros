@@ -33,3 +33,8 @@ Este capítulo enfatiza a <b>importância de conhecer as forças e fraquezas pr�
 ## Capítulo 6: Fraquezas e Forças
 
 Sun Tzu argumenta que <i>a chave para a vitória</i> é <b>conhecer</b> as próprias fraquezas e forças, bem como as do inimigo. Ele enfatiza a <i>importância de explorar</i> as fraquezas do inimigo e proteger as próprias.
+
+
+## Capítulo 7: Manobras
+
+Este capítulo enfatiza a <b>importância</b> de manobrar as forças próprias e do inimigo para <b>obter vantagem estratégica</b>. Sun Tzu argumenta que <i>um comandante deve ser capaz de manobrar rapidamente e tomar a iniciativa</i>.
