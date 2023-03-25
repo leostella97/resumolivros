@@ -59,3 +59,8 @@ Este capítulo enfatiza a <b>importância</b> do terreno na guerra. Sun Tzu argu
 ## Capítulo 11: As Nove Situações
 
 Este capítulo descreve <i>nove situações</i> diferentes que um comandante pode enfrentar em uma batalha, incluindo atacar um inimigo superior em número e defender uma posição cercada. Sun Tzu argumenta que <i>um comandante</i> deve ser capaz de <b>adaptar</b> sua estratégia a cada uma dessas situações.
+
+
+## Capítulo 12: Espiões
+
+Sun Tzu argumenta que <i>a espionagem é uma parte essencial da guerra</i>. Ele enfatiza a <b>importância</b> de obter informações precisas sobre as forças inimigas e <i>usar essas informações</i> para tomar decisões estratégicas.
