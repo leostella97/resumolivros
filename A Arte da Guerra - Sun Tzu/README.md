@@ -48,3 +48,8 @@ Este capítulo enfatiza a <b>importância</b> de avaliar as variáveis que afeta
 ## Capítulo 9: Estratégia Defensiva
 
 Sun Tzu argumenta que, <i>em algumas circunstâncias</i>, a melhor estratégia é <b>adotar uma postura defensiva</b>. Ele enfatiza a <b>importância</b> de manter uma posição forte e <b>não se envolver</b> em batalhas desnecessárias.
+
+
+## Capítulo 10: Terreno
+
+Este capítulo enfatiza a <b>importância</b> do terreno na guerra. Sun Tzu argumenta que <i>um comandante</i> deve conhecer bem o terreno e usá-lo a seu favor. Ele também destaca a importância de <b>adaptar a estratégia</b> à geografia do terreno.
