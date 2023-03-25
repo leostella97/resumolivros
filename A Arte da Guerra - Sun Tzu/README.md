@@ -45,3 +45,6 @@ Este capítulo enfatiza a <b>importância</b> de manobrar as forças próprias e
 Este capítulo enfatiza a <b>importância</b> de avaliar as variáveis que afetam uma batalha, incluindo o terreno, o clima e a posição das forças próprias e do inimigo. Sun Tzu argumenta que <i>um comandante</i> deve ser capaz de adaptar sua estratégia de batalha.
 
 
+## Capítulo 9: Estratégia Defensiva
+
+Sun Tzu argumenta que, <i>em algumas circunstâncias</i>, a melhor estratégia é <b>adotar uma postura defensiva</b>. Ele enfatiza a <b>importância</b> de manter uma posição forte e <b>não se envolver</b> em batalhas desnecessárias.
