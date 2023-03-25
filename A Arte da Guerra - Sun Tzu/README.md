@@ -64,3 +64,13 @@ Este capítulo descreve <i>nove situações</i> diferentes que um comandante pod
 ## Capítulo 12: Espiões
 
 Sun Tzu argumenta que <i>a espionagem é uma parte essencial da guerra</i>. Ele enfatiza a <b>importância</b> de obter informações precisas sobre as forças inimigas e <i>usar essas informações</i> para tomar decisões estratégicas.
+
+
+## Capítulo 13: Conclusão
+
+O último capítulo do livro enfatiza a <b>importância</b> da sabedoria e da habilidade para a vitória na guerra. Sun Tzu argumenta que <i>um comandante deve ser sábio e astuto</i>, e que a vitória depende tanto da habilidade do comandante quanto da força de suas tropas.
+
+
+## Conclusão
+
+"A Arte da Guerra" de <b>Sun Tzu</b> é um tratado militar clássico que continua a ser estudado e aplicado até os dias de hoje. Seu foco em <b>estratégia, planejamento</b> e <b>adaptação</b> é relevante não apenas para a guerra, mas também para a <i>vida cotidiana</i>. O livro oferece insights valiosos sobre como vencer em situações desafiadoras, tanto no campo de batalha quanto na vida pessoal e profissional.
