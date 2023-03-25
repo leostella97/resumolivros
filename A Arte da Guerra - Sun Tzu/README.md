@@ -53,3 +53,9 @@ Sun Tzu argumenta que, <i>em algumas circunstâncias</i>, a melhor estratégia �
 ## Capítulo 10: Terreno
 
 Este capítulo enfatiza a <b>importância</b> do terreno na guerra. Sun Tzu argumenta que <i>um comandante</i> deve conhecer bem o terreno e usá-lo a seu favor. Ele também destaca a importância de <b>adaptar a estratégia</b> à geografia do terreno.
+
+
+
+## Capítulo 11: As Nove Situações
+
+Este capítulo descreve <i>nove situações</i> diferentes que um comandante pode enfrentar em uma batalha, incluindo atacar um inimigo superior em número e defender uma posição cercada. Sun Tzu argumenta que <i>um comandante</i> deve ser capaz de <b>adaptar</b> sua estratégia a cada uma dessas situações.
