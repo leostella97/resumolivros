@@ -13,3 +13,8 @@ O primeiro capítulo enfatiza a <b>importância do planejamento</b> antes de qua
 ## Capítulo 2: Guerra Ofensiva
 
 Sun Tzu argumenta que, em geral, é <b>melhor adotar</b> uma estratégia ofensiva em vez de defensiva. Ele afirma que a <i>melhor maneira de vencer uma guerra</i> é destruir as forças inimigas <i>antes</i> que elas tenham a chance de se <i>concentrar</i> e se fortalecer.
+
+
+## Capítulo 3: Planejamento Estratégico
+
+Este capítulo enfatiza a <b>importância da flexibilidade e da adaptação</b>. Sun Tzu argumenta que um <i>comandante deve ser capaz</i> de se adaptar às mudanças no campo de batalha e não se prender a um plano pré-concebido. Ele também destaca a importância de <i>manter a calma</i> e <i>não ser influenciado</i> pelas emoções.
