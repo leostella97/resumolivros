@@ -2,3 +2,9 @@
 
 O livro <b>"A Arte da Guerra"</b> foi escrito por <b>Sun Tzu</b>, um <i>general chinês</i> que viveu há mais de 2.500 anos. É um dos tratados <b>militares</b> mais antigos e <b>influentes</b> da história, tendo sido estudado por <i>líderes militares</i> e <i>políticos</i> em todo o mundo.
 
+O livro consiste em 13 capítulos, cada um abordando um aspecto diferente da estratégia militar. Abaixo está um resumo de cada capítulo:
+
+
+## Capítulo 1: Planejamento
+
+O primeiro capítulo enfatiza a <b>importância do planejamento</b> antes de qualquer ação militar. Sun Tzu argumenta que, <i>para vencer uma guerra</i>, é necessário <i>conhecer o inimigo e o terreno em que a batalha será travada</i>. Ele também destaca a <b>importância de avaliar</b> cuidadosamente as forças próprias e as do inimigo antes de tomar qualquer decisão.
