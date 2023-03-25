@@ -38,3 +38,10 @@ Sun Tzu argumenta que <i>a chave para a vitória</i> é <b>conhecer</b> as próp
 ## Capítulo 7: Manobras
 
 Este capítulo enfatiza a <b>importância</b> de manobrar as forças próprias e do inimigo para <b>obter vantagem estratégica</b>. Sun Tzu argumenta que <i>um comandante deve ser capaz de manobrar rapidamente e tomar a iniciativa</i>.
+
+
+## Capítulo 8: Variáveis
+
+Este capítulo enfatiza a <b>importância</b> de avaliar as variáveis que afetam uma batalha, incluindo o terreno, o clima e a posição das forças próprias e do inimigo. Sun Tzu argumenta que <i>um comandante</i> deve ser capaz de adaptar sua estratégia de batalha.
+
+
