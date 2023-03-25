@@ -23,3 +23,8 @@ Este capítulo enfatiza a <b>importância da flexibilidade e da adaptação</b>.
 ## Capítulo 4: Táticas
 
 Sun Tzu enfatiza a <b>importância de escolher o momento certo</b> para atacar o inimigo e a <b>importância de ter várias táticas à disposição</b>. Ele argumenta que um comandante <i>deve ser capaz de mudar rapidamente</i> de tática para surpreender o inimigo.
+
+
+## Capítulo 5: Forças e Fraquezas
+
+Este capítulo enfatiza a <b>importância de conhecer as forças e fraquezas próprias e do inimigo</b>. Sun Tzu argumenta que <i>um comandante deve se concentrar</i> em explorar as fraquezas do inimigo, em vez de atacar diretamente suas forças.
