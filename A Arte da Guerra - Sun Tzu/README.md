@@ -18,3 +18,8 @@ Sun Tzu argumenta que, em geral, é <b>melhor adotar</b> uma estratégia ofensiv
 ## Capítulo 3: Planejamento Estratégico
 
 Este capítulo enfatiza a <b>importância da flexibilidade e da adaptação</b>. Sun Tzu argumenta que um <i>comandante deve ser capaz</i> de se adaptar às mudanças no campo de batalha e não se prender a um plano pré-concebido. Ele também destaca a importância de <i>manter a calma</i> e <i>não ser influenciado</i> pelas emoções.
+
+
+## Capítulo 4: Táticas
+
+Sun Tzu enfatiza a <b>importância de escolher o momento certo</b> para atacar o inimigo e a <b>importância de ter várias táticas à disposição</b>. Ele argumenta que um comandante <i>deve ser capaz de mudar rapidamente</i> de tática para surpreender o inimigo.
