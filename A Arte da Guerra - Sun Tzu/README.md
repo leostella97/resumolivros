@@ -28,3 +28,8 @@ Sun Tzu enfatiza a <b>importância de escolher o momento certo</b> para atacar o
 ## Capítulo 5: Forças e Fraquezas
 
 Este capítulo enfatiza a <b>importância de conhecer as forças e fraquezas próprias e do inimigo</b>. Sun Tzu argumenta que <i>um comandante deve se concentrar</i> em explorar as fraquezas do inimigo, em vez de atacar diretamente suas forças.
+
+
+## Capítulo 6: Fraquezas e Forças
+
+Sun Tzu argumenta que <i>a chave para a vitória</i> é <b>conhecer</b> as próprias fraquezas e forças, bem como as do inimigo. Ele enfatiza a <i>importância de explorar</i> as fraquezas do inimigo e proteger as próprias.
