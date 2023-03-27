@@ -20,4 +20,4 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/A%20Arte%20da%20Guerra%20-%20Sun%20Tzu">> A Arte da Guerra - Sun Tzu</a>
 <br>
-<a href="https://github.com/leostella97/resumolivros/tree/main/As%20Armas%20da%20Persuas%C3%A3o">As Armas da Persuasão</a>
+<a href="https://github.com/leostella97/resumolivros/tree/main/As%20Armas%20da%20Persuas%C3%A3o">> As Armas da Persuasão</a>
