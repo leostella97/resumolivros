@@ -21,3 +21,8 @@ As seis armas da persuasão <i>identificadas</i> por Cialdini são:
 <b>• Autoridade:</b> a <i>tendência</i> das pessoas a seguirem aqueles que parecem ter <i>autoridade ou conhecimento especializado</i>. O persuasor pode usar sua posição de autoridade ou citar fontes confiáveis ​​para <i>persuadir</i> outras pessoas a <i>seguir suas recomendações</i>.
 
 <b>• Escassez:</b> a tendência das pessoas a <i>valorizarem</i> mais algo que é raro ou difícil de conseguir. O persuasor pode usar a <i>escassez de um produto</i> ou oportunidade para aumentar a demanda e <i>persuadir</i> as pessoas a agirem mais rapidamente.
+
+
+
+## Conclusão
+"As Armas da Persuasão" é um <b>livro valioso</b> para quem deseja <i>entender melhor como a persuasão funciona</i> e <i>como se proteger contra ela</i>. Ao identificar as técnicas comuns usadas pelos persuasores, o leitor pode se tornar <b>mais consciente</b> de suas próprias decisões e <b>reduzir</b> a influência dos outros sobre ele.
