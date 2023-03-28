@@ -10,3 +10,5 @@ O livro apresenta diversas <b>técnicas de persuasão</b>, como a arte de escuta
 O livro <b>aborda</b> também a persuasão em <i>situações difíceis</i>, como quando alguém está com raiva ou não concorda com o que está sendo dito. Ele explica <b>como usar técnicas como a empatia</b>, o espelhamento e a validação para reduzir a tensão e alcançar um acordo.
 
 O último capítulo do livro destaca a <b>importância</b> de manter a integridade na persuasão e como isso é fundamental para <b>estabelecer relações</b> de longo prazo. Ele explica que a persuasão não deve ser vista como uma forma de manipular ou controlar as pessoas, mas sim como uma habilidade de construir relações saudáveis ​​e alcançar objetivos mútuos.
+
+Em resumo, <b>"Manual de persuasão do FBI"</b> é um livro que <b>oferece técnicas</b> de persuasão úteis e práticas para serem <i>aplicadas em várias</i> situações da vida, desde negociações de trabalho até conversas pessoais. O livro também enfatiza a <b>importância</b> da integridade e ética na persuasão, e como essa habilidade pode ser usada de maneira positiva para estabelecer relações duradouras e alcançar objetivos mútuos.
