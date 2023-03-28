@@ -6,3 +6,5 @@ O livro <b>"Manual de persuasão do FBI"</b> é escrito por <b>Jack Schafer</b>,
 O livro começa explicando a <b>importância da persuasão</b> na vida diária e profissional, e como a <i>falta de habilidades</i> de persuasão pode levar a <b>perda de oportunidades</b>. Ele também destaca a diferença entre <i>manipulação e persuasão</i>, enfatizando que <b>persuasão é uma habilidade positiva</b> que ajuda a estabelecer relacionamentos e a alcançar objetivos de forma ética.
 
 O livro apresenta diversas <b>técnicas de persuasão</b>, como a arte de escutar, a importância do rapport, como usar perguntas para obter informações, a técnica do "sim" condicional, entre outras. Ele também destaca a <b>importância da linguagem corporal</b>, tanto na perspectiva de observação quanto na de como projetar sua própria linguagem corporal para ser persuasivo.
+
+O livro <b>aborda</b> também a persuasão em <i>situações difíceis</i>, como quando alguém está com raiva ou não concorda com o que está sendo dito. Ele explica <b>como usar técnicas como a empatia</b>, o espelhamento e a validação para reduzir a tensão e alcançar um acordo.
