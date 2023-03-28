@@ -8,3 +8,5 @@ O livro começa explicando a <b>importância da persuasão</b> na vida diária e
 O livro apresenta diversas <b>técnicas de persuasão</b>, como a arte de escutar, a importância do rapport, como usar perguntas para obter informações, a técnica do "sim" condicional, entre outras. Ele também destaca a <b>importância da linguagem corporal</b>, tanto na perspectiva de observação quanto na de como projetar sua própria linguagem corporal para ser persuasivo.
 
 O livro <b>aborda</b> também a persuasão em <i>situações difíceis</i>, como quando alguém está com raiva ou não concorda com o que está sendo dito. Ele explica <b>como usar técnicas como a empatia</b>, o espelhamento e a validação para reduzir a tensão e alcançar um acordo.
+
+O último capítulo do livro destaca a <b>importância</b> de manter a integridade na persuasão e como isso é fundamental para <b>estabelecer relações</b> de longo prazo. Ele explica que a persuasão não deve ser vista como uma forma de manipular ou controlar as pessoas, mas sim como uma habilidade de construir relações saudáveis ​​e alcançar objetivos mútuos.
