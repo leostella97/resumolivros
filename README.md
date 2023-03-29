@@ -23,3 +23,6 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <a href="https://github.com/leostella97/resumolivros/tree/main/As%20Armas%20da%20Persuas%C3%A3o">> As Armas da Persuasão</a>
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/Manual%20de%20persuas%C3%A3o%20do%20FBI">> Manual de persuasão do FBI</a>
+<br>
+<a href="https://github.com/leostella97/resumolivros/tree/main/Como%20fazer%20amigos%20e%20influenciar%20pessoas">> Como fazer amigos e influenciar pessoas
+</a>
