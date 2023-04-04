@@ -28,4 +28,4 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/Encantamento%20a%20arte%20de%20modificar%20cora%C3%A7%C3%B5es%2C%20mentes%20e%20a%C3%A7%C3%B5es">> Encantamento: a arte de modificar corações, mentes e ações</a>
 <br>
-<a href="https://github.com/leostella97/resumolivros/tree/main/Como%20Chegar%20ao%20Sim">Como Chegar ao Sim</a>
+<a href="https://github.com/leostella97/resumolivros/tree/main/Como%20Chegar%20ao%20Sim">> Como Chegar ao Sim</a>
