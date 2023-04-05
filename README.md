@@ -29,3 +29,5 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <a href="https://github.com/leostella97/resumolivros/tree/main/Encantamento%20a%20arte%20de%20modificar%20cora%C3%A7%C3%B5es%2C%20mentes%20e%20a%C3%A7%C3%B5es">> Encantamento: a arte de modificar corações, mentes e ações</a>
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/Como%20Chegar%20ao%20Sim">> Como Chegar ao Sim</a>
+<br>
+<a href="https://github.com/leostella97/resumolivros/tree/main/Pense%20de%20novo%20O%20poder%20de%20saber%20o%20que%20voc%C3%AA%20n%C3%A3o%20sabe">> Pense de Novo: O poder de saber o que você não sabe</a>
