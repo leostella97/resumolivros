@@ -17,3 +17,6 @@ Kiyosaki explica a <i>história dos impostos e como o conhecimento financeiro po
 
 ## Capítulo 5 - Os ricos inventam dinheiro
 Neste capítulo, Kiyosaki <b>explica</b> como os <i>ricos inventam dinheiro</i>, ou seja, como eles são <i>capazes de criar renda passiva</i> através de <i>investimentos e negócios próprios</i>. Ele destaca que, para se tornar rico, é <b>necessário aprender</b> a criar dinheiro, em vez de apenas trabalhar para ganhá-lo.
+
+## Capítulo 6 - Trabalhe para aprender e não pelo dinheiro
+Kiyosaki apresenta a ideia de que é <b>preciso trabalhar para aprender</b>, e <b>não apenas pelo dinheiro</b>. Ele destaca que, ao <i>trabalhar em empregos que oferecem oportunidades de aprendizado</i>, as pessoas podem adquirir <i>conhecimentos financeiros valiosos</i>, que serão úteis no futuro.
