@@ -31,4 +31,4 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <a href="https://github.com/leostella97/resumolivros/tree/main/Como%20Chegar%20ao%20Sim">> Como Chegar ao Sim</a>
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/Pense%20de%20novo%20O%20poder%20de%20saber%20o%20que%20voc%C3%AA%20n%C3%A3o%20sabe">> Pense de Novo: O poder de saber o que você não sabe</a>
-<a href="https://github.com/leostella97/resumolivros/tree/main/Pai%20Rico%2C%20Pai%20Pobre">> Pai Rico, Pai Pobre</a>
+<a href="https://github.com/leostella97/resumolivros/tree/main/Pai%20Rico%2C%20Pai%20Pobre">> Pai Rico, Pai Pobre</a> 
