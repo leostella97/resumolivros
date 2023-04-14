@@ -14,3 +14,6 @@ O pai biológico de Kiyosaki, o <i>pai pobre, era um homem trabalhador</i>, mas 
 
 ## Capítulo 4 - A história dos impostos e o poder do conhecimento
 Kiyosaki explica a <i>história dos impostos e como o conhecimento financeiro pode fazer a diferença</i> na hora de pagar menos impostos. Ele destaca que as pessoas que possuem conhecimentos financeiros <b>são capazes</b> de encontrar brechas legais para <b>diminuir a carga</b> tributária e, assim, <b>aumentar sua renda</b> líquida.
+
+## Capítulo 5 - Os ricos inventam dinheiro
+Neste capítulo, Kiyosaki <b>explica</b> como os <i>ricos inventam dinheiro</i>, ou seja, como eles são <i>capazes de criar renda passiva</i> através de <i>investimentos e negócios próprios</i>. Ele destaca que, para se tornar rico, é <b>necessário aprender</b> a criar dinheiro, em vez de apenas trabalhar para ganhá-lo.
