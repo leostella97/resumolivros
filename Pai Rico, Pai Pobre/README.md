@@ -23,3 +23,8 @@ Kiyosaki apresenta a ideia de que é <b>preciso trabalhar para aprender</b>, e <
 
 ## Capítulo 7 - Supere os obstáculos
 Neste capítulo, Kiyosaki apresenta algumas das <b>principais barreiras</b> que as pessoas enfrentam ao tentar se tornar financeiramente independentes, como o <i>medo, a preguiça e a falta de coragem</i> para assumir riscos. Ele destaca que é <b>preciso superar</b> esses obstáculos paraalcançar a liberdade financeira.
+
+## Conclusão
+Em resumo, o livro <b>"Pai Rico, Pai Pobre" de Robert Kiyosaki</b> é um <i>guia prático e inspirador sobre finanças pessoais</i>. Ele apresenta a <b>importância da educação financeira</b> e destaca como os ricos pensam e agem de forma diferente em relação ao dinheiro. Ao longo dos capítulos, o autor <b>apresenta conceitos importantes</b>, como a <i>criação de renda passiva, o investimento em ativos, o conhecimento sobre impostos e a busca por empregos que ofereçam oportunidades de aprendizado</i>. Com uma linguagem simples e exemplos práticos, Kiyosaki incentiva as pessoas a buscarem a liberdade financeira e a mudarem sua forma de pensar em relação ao dinheiro.
+
+Recomendo muito a leitura desse livro!
