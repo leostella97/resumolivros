@@ -20,3 +20,6 @@ Neste capítulo, Kiyosaki <b>explica</b> como os <i>ricos inventam dinheiro</i>,
 
 ## Capítulo 6 - Trabalhe para aprender e não pelo dinheiro
 Kiyosaki apresenta a ideia de que é <b>preciso trabalhar para aprender</b>, e <b>não apenas pelo dinheiro</b>. Ele destaca que, ao <i>trabalhar em empregos que oferecem oportunidades de aprendizado</i>, as pessoas podem adquirir <i>conhecimentos financeiros valiosos</i>, que serão úteis no futuro.
+
+## Capítulo 7 - Supere os obstáculos
+Neste capítulo, Kiyosaki apresenta algumas das <b>principais barreiras</b> que as pessoas enfrentam ao tentar se tornar financeiramente independentes, como o <i>medo, a preguiça e a falta de coragem</i> para assumir riscos. Ele destaca que é <b>preciso superar</b> esses obstáculos paraalcançar a liberdade financeira.
