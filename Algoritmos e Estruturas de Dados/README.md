@@ -7,3 +7,5 @@ O livro está dividido em 13 capítulos, que exploram diferentes aspectos dos al
 # Capítulo 1 - Introdução
 O capítulo introdutório apresenta os conceitos básicos de algoritmos e estruturas de dados, e discute a importância do estudo desses temas para a resolução de problemas computacionais. Também são apresentadas algumas ferramentas e técnicas que serão utilizadas ao longo do livro.
 
+# Capítulo 2 - Análise de Algoritmos
+Neste capítulo, são discutidas as técnicas de análise de algoritmos, que permitem determinar o tempo de execução de um algoritmo em função do tamanho da entrada. São apresentadas as notações de O-grande, Ω-grande e Θ-grande, que são utilizadas para descrever o desempenho assintótico dos algoritmos.
