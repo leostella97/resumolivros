@@ -19,3 +19,5 @@ As árvores são uma das estruturas de dados mais importantes da computação. N
 # Capítulo 5 - Conjuntos Disjuntos
 Conjuntos disjuntos é uma estrutura de dados que permite a manipulação de conjuntos que não possuem elementos em comum. Neste capítulo, são apresentadas diferentes técnicas para implementação de conjuntos disjuntos, incluindo a técnica de união-find e as árvores de Kruskal.
 
+# Capítulo 6 - Algoritmos de Ordenação
+Ordenação de dados é uma operação muito importante na computação. Neste capítulo, são apresentados diferentes algoritmos de ordenação, como insertion sort, merge sort, quicksort, heapsort, entre outros. São discutidas as complexidades de tempo desses algoritmos e suas vantagens e desvantagens.
