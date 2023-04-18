@@ -39,3 +39,6 @@ Neste capítulo, é discutido o uso de algoritmos de aprendizado de máquina par
 
 # Capítulo 12 - Algoritmos Paralelos e Distribuídos
 Neste capítulo, são apresentados os conceitos básicos de algoritmos paralelos e distribuídos. São discutidos os desafios de projeto desses tipos de algoritmos, bem como as técnicas utilizadas para otimizar o desempenho.
+
+# Capítulo 13 - Algoritmos em Geometria Computacional
+A geometria computacional é uma área da computação que estuda algoritmos para a solução de problemas geométricos. Neste capítulo, são apresentados diferentes algoritmos em geometria computacional, incluindo algoritmos para cálculo de distâncias, interseções de segmentos, triangulação de Delaunay, entre outros.
