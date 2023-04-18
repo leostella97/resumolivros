@@ -21,3 +21,6 @@ Conjuntos disjuntos é uma estrutura de dados que permite a manipulação de con
 
 # Capítulo 6 - Algoritmos de Ordenação
 Ordenação de dados é uma operação muito importante na computação. Neste capítulo, são apresentados diferentes algoritmos de ordenação, como insertion sort, merge sort, quicksort, heapsort, entre outros. São discutidas as complexidades de tempo desses algoritmos e suas vantagens e desvantagens.
+
+# Capítulo 7 - Algoritmos em Grafos
+Os grafos são uma estrutura de dados muito importante na computação. Neste capítulo, são apresentados diferentes algoritmos em grafos, como busca em largura, busca em profundidade, algoritmo de Dijkstra, algoritmo de Bellman-Ford, algoritmo de Floyd-War
