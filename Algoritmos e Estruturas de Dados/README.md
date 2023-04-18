@@ -24,3 +24,6 @@ Ordenação de dados é uma operação muito importante na computação. Neste c
 
 # Capítulo 7 - Algoritmos em Grafos
 Os grafos são uma estrutura de dados muito importante na computação. Neste capítulo, são apresentados diferentes algoritmos em grafos, como busca em largura, busca em profundidade, algoritmo de Dijkstra, algoritmo de Bellman-Ford, algoritmo de Floyd-War
+
+# Capítulo 8 - Árvores Geradoras e Algoritmo de Prim
+Neste capítulo, é apresentada a técnica de árvores geradoras, que consiste em encontrar uma árvore que abrange todos os vértices de um grafo. É discutido o algoritmo de Prim, que é uma técnica eficiente para encontrar a árvore geradora mínima de um grafo ponderado.
