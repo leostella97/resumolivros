@@ -12,3 +12,6 @@ Neste capítulo, são discutidas as técnicas de análise de algoritmos, que per
 
 # Capítulo 3 - Estruturas de Dados Elementares
 Neste capítulo, são apresentadas as estruturas de dados mais simples, como arrays, listas encadeadas, pilhas e filas. São discutidas as operações básicas que podem ser realizadas nessas estruturas, bem como as complexidades de tempo dessas operações.
+
+# Capítulo 4 - Árvores
+As árvores são uma das estruturas de dados mais importantes da computação. Neste capítulo, são apresentados os conceitos básicos de árvores, como nós, arestas, raiz, subárvore, altura, profundidade, entre outros. São discutidos diferentes tipos de árvores, como árvores binárias, árvores de busca binárias, árvores rubro-negras e árvores B.
