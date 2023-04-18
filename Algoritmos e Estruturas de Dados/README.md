@@ -27,3 +27,6 @@ Os grafos são uma estrutura de dados muito importante na computação. Neste ca
 
 # Capítulo 8 - Árvores Geradoras e Algoritmo de Prim
 Neste capítulo, é apresentada a técnica de árvores geradoras, que consiste em encontrar uma árvore que abrange todos os vértices de um grafo. É discutido o algoritmo de Prim, que é uma técnica eficiente para encontrar a árvore geradora mínima de um grafo ponderado.
+
+# Capítulo 9 - Algoritmos de Fluxo Máximo
+Os problemas de fluxo em redes são muito comuns na computação. Neste capítulo, são apresentados diferentes algoritmos para resolver o problema de fluxo máximo em uma rede, incluindo o algoritmo de Ford-Fulkerson, o algoritmo de Edmonds-Karp e o algoritmo de Dinic.
