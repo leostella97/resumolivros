@@ -15,3 +15,7 @@ Neste capítulo, são apresentadas as estruturas de dados mais simples, como arr
 
 # Capítulo 4 - Árvores
 As árvores são uma das estruturas de dados mais importantes da computação. Neste capítulo, são apresentados os conceitos básicos de árvores, como nós, arestas, raiz, subárvore, altura, profundidade, entre outros. São discutidos diferentes tipos de árvores, como árvores binárias, árvores de busca binárias, árvores rubro-negras e árvores B.
+
+# Capítulo 5 - Conjuntos Disjuntos
+Conjuntos disjuntos é uma estrutura de dados que permite a manipulação de conjuntos que não possuem elementos em comum. Neste capítulo, são apresentadas diferentes técnicas para implementação de conjuntos disjuntos, incluindo a técnica de união-find e as árvores de Kruskal.
+
