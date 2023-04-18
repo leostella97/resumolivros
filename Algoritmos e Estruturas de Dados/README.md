@@ -36,3 +36,6 @@ Os problemas de caminho mínimo são muito comuns na computação. Neste capítu
 
 # Capítulo 11 - Algoritmos de Aprendizado de Máquina
 Neste capítulo, é discutido o uso de algoritmos de aprendizado de máquina para a solução de problemas computacionais. São apresentados diferentes tipos de aprendizado de máquina, como aprendizado supervisionado e não supervisionado, e discutidas as técnicas de treinamento e avaliação de modelos.
+
+# Capítulo 12 - Algoritmos Paralelos e Distribuídos
+Neste capítulo, são apresentados os conceitos básicos de algoritmos paralelos e distribuídos. São discutidos os desafios de projeto desses tipos de algoritmos, bem como as técnicas utilizadas para otimizar o desempenho.
