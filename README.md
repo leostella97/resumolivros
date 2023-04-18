@@ -34,4 +34,6 @@ Resumos de bons livros para programação e desenvolvimento pessoal
 <br>
 <a href="https://github.com/leostella97/resumolivros/tree/main/Pai%20Rico%2C%20Pai%20Pobre">• Pai Rico, Pai Pobre</a>
 <br>
-<a href="https://github.com/leostella97/resumolivros/tree/main/Estruturas%20de%20Dados%20e%20seus%20Algoritmos">> Estruturas de Dados e seus Algoritmos</a>
+<a href="https://github.com/leostella97/resumolivros/tree/main/Estruturas%20de%20Dados%20e%20seus%20Algoritmos">• Estruturas de Dados e seus Algoritmos</a>
+<br>
+<a href="https://github.com/leostella97/resumolivros/tree/main/Algoritmos%20e%20Estruturas%20de%20Dados">• Algoritmos e Estruturas de Dados</a>
