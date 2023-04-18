@@ -33,3 +33,6 @@ Os problemas de fluxo em redes são muito comuns na computação. Neste capítul
 
 # Capítulo 10 - Algoritmos de Caminho Mínimo
 Os problemas de caminho mínimo são muito comuns na computação. Neste capítulo, são apresentados diferentes algoritmos para encontrar o caminho mínimo em um grafo, incluindo o algoritmo de Dijkstra, o algoritmo de Bellman-Ford e o algoritmo de Floyd-Warshall.
+
+# Capítulo 11 - Algoritmos de Aprendizado de Máquina
+Neste capítulo, é discutido o uso de algoritmos de aprendizado de máquina para a solução de problemas computacionais. São apresentados diferentes tipos de aprendizado de máquina, como aprendizado supervisionado e não supervisionado, e discutidas as técnicas de treinamento e avaliação de modelos.
