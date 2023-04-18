@@ -13,3 +13,13 @@ Nesta parte, o livro apresenta diversas estruturas de dados, incluindo listas en
 # Parte III: Algoritmos
 Nesta parte, o livro apresenta algoritmos para busca, ordenação, manipulação de árvores e grafos, algoritmos de programação dinâmica e algoritmos para problemas NP-difíceis.
 
+# Destaques
+Algumas das características mais destacadas deste livro incluem:
+
+• O livro apresenta uma abordagem clara e didática, com exemplos e exercícios resolvidos ao longo do texto.
+<br>
+• As estruturas de dados são apresentadas de forma gradual e ordenada, com exemplos de aplicação prática para cada uma delas.
+<br>
+• Os algoritmos são apresentados com sua complexidade analisada e exemplos de uso prático.
+<br>
+• O livro apresenta exemplos de implementação de cada estrutura de dados e algoritmo, em linguagem C.
