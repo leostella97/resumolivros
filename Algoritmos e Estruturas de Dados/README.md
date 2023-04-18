@@ -42,5 +42,5 @@ Neste capítulo, são apresentados os conceitos básicos de algoritmos paralelos
 
 # Capítulo 13 - Algoritmos em Geometria Computacional
 A geometria computacional é uma área da computação que estuda algoritmos para a solução de problemas geométricos. Neste capítulo, são apresentados diferentes algoritmos em geometria computacional, incluindo algoritmos para cálculo de distâncias, interseções de segmentos, triangulação de Delaunay, entre outros.
-
+<br><br><br>
 No geral, o livro "Algoritmos e Estruturas de Dados" oferece uma abordagem ampla e completa para o estudo de algoritmos e estruturas de dados, abrangendo desde os conceitos básicos até técnicas avançadas. O livro é uma leitura essencial para qualquer pessoa interessada em computação e é frequentemente utilizado como material didático em cursos de Ciência da Computação.
