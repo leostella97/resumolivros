@@ -10,3 +10,6 @@ Nesta parte, o livro apresenta os conceitos básicos de estruturas de dados e al
 # Parte II: Estruturas de Dados
 Nesta parte, o livro apresenta diversas estruturas de dados, incluindo listas encadeadas, pilhas, filas, árvores, grafos e tabelas hash. Cada estrutura de dados é apresentada com suas características, operações básicas e exemplos de aplicação.
 
+# Parte III: Algoritmos
+Nesta parte, o livro apresenta algoritmos para busca, ordenação, manipulação de árvores e grafos, algoritmos de programação dinâmica e algoritmos para problemas NP-difíceis.
+
