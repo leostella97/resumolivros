@@ -30,3 +30,6 @@ Neste capítulo, é apresentada a técnica de árvores geradoras, que consiste e
 
 # Capítulo 9 - Algoritmos de Fluxo Máximo
 Os problemas de fluxo em redes são muito comuns na computação. Neste capítulo, são apresentados diferentes algoritmos para resolver o problema de fluxo máximo em uma rede, incluindo o algoritmo de Ford-Fulkerson, o algoritmo de Edmonds-Karp e o algoritmo de Dinic.
+
+# Capítulo 10 - Algoritmos de Caminho Mínimo
+Os problemas de caminho mínimo são muito comuns na computação. Neste capítulo, são apresentados diferentes algoritmos para encontrar o caminho mínimo em um grafo, incluindo o algoritmo de Dijkstra, o algoritmo de Bellman-Ford e o algoritmo de Floyd-Warshall.
