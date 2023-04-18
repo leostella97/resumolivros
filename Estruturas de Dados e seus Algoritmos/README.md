@@ -6,3 +6,7 @@ O livro "Estruturas de Dados e seus Algoritmos" é escrito por Jayme Luiz Szwarc
 
 # Parte I: Conceitos Básicos
 Nesta parte, o livro apresenta os conceitos básicos de estruturas de dados e algoritmos, incluindo complexidade de algoritmos, notação O-grande, análise de algoritmos recursivos e não-recursivos, busca e ordenação de dados.
+
+# Parte II: Estruturas de Dados
+Nesta parte, o livro apresenta diversas estruturas de dados, incluindo listas encadeadas, pilhas, filas, árvores, grafos e tabelas hash. Cada estrutura de dados é apresentada com suas características, operações básicas e exemplos de aplicação.
+
