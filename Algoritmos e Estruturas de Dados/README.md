@@ -9,3 +9,6 @@ O capítulo introdutório apresenta os conceitos básicos de algoritmos e estrut
 
 # Capítulo 2 - Análise de Algoritmos
 Neste capítulo, são discutidas as técnicas de análise de algoritmos, que permitem determinar o tempo de execução de um algoritmo em função do tamanho da entrada. São apresentadas as notações de O-grande, Ω-grande e Θ-grande, que são utilizadas para descrever o desempenho assintótico dos algoritmos.
+
+# Capítulo 3 - Estruturas de Dados Elementares
+Neste capítulo, são apresentadas as estruturas de dados mais simples, como arrays, listas encadeadas, pilhas e filas. São discutidas as operações básicas que podem ser realizadas nessas estruturas, bem como as complexidades de tempo dessas operações.
