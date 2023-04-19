@@ -1,6 +1,6 @@
 # Algoritmos e Estruturas de Dados
 
-"Algoritmos e Estruturas de Dados" é um livro que aborda o estudo dos algoritmos e das estruturas de dados usados para a solução de problemas computacionais. Escrito pelos autores Michael T. Goodrich e Roberto Tamassia, a obra é voltada tanto para estudantes de graduação em Ciência da Computação como para profissionais da área.
+"Algoritmos e Estruturas de Dados" é um livro que aborda o estudo dos algoritmos e das estruturas de dados usados para a solução de problemas computacionais. Escrito pelos autores Michael T. Goodrich e Roberto Tamassia, a obra é voltada tanto para estudantes de graduação em Ciência da Computação como para profissionais da área. 
 
 O livro está dividido em 13 capítulos, que exploram diferentes aspectos dos algoritmos e estruturas de dados. A seguir, é apresentado um resumo de cada um dos capítulos.
 
